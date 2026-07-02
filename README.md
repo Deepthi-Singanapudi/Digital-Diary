@@ -5,7 +5,7 @@
 
 ---
 
-🔗 **Live Site**: [https://harshitha-somu.github.io/Digital-Diary/](https://harshitha-somu.github.io/Digital-Diary/)
+🔗 **Live Site**: [https://deepthi-singanapudi.github.io/Digital-Diary/](https://deepthi-singanapudi.github.io/Digital-Diary/)
 
 ---
 
