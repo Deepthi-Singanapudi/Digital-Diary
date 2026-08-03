@@ -64,8 +64,8 @@ Or deploy it on GitHub Pages:
 
 ## 📧 Contact
 
-Created by **Harshitha Somu**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/harshitha-somu) or [GitHub](https://github.com/harshitha-somu)
+Created by **Sri Deepthi**  
+
 
 ---
 
